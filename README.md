@@ -11,6 +11,8 @@ The DA schemes used are:
 
 The last three DA schemes were newly introduced in the following paper and for details about the conceptual background and for further information about the implementation strategy of these DA schemes the reader is referred to this paper.
 
- [Teweldebrhan, A., Burkhart, J., Schuler, T., and Xu, C.-Y.: Improving the Informational Value of MODIS 
- Fractional Snow Cover Area Using Fuzzy Logic Based Ensemble Smoother Data Assimilation Frameworks, Remote 
- Sensing, 11, 28, 2019.] (https://www.mdpi.com/2072-4292/11/1/28)
+<a href="https://www.mdpi.com/2072-4292/11/1/28"><Teweldebrhan, A., Burkhart, J., Schuler, T., and Xu, C.-Y.: Improving the Informational Value of MODIS Fractional Snow Cover Area Using Fuzzy Logic Based Ensemble Smoother Data Assimilation Frameworks, Remote Sensing, 11, 28, 2019. </a>
+
+Teweldebrhan, A., Burkhart, J., Schuler, T., and Xu, C.-Y.: Improving the Informational Value of MODIS 
+Fractional Snow Cover Area Using Fuzzy Logic Based Ensemble Smoother Data Assimilation Frameworks, Remote 
+Sensing, 11, 28, 2019. https://www.mdpi.com/2072-4292/11/1/28
