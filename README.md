@@ -1,5 +1,4 @@
 # Data-assimilation-schemes
-Sample application of DA schemes
 
 The Notebook (DA_smoothers_sample_application) demonstrates a sample application of four ensemble smoother data assimilation (DA) schemes for assimilating MODIS fractional snow cover area (fSCA) into a hydrological model. Here the main goal is to get an improved estimate of snow water equivalent (SWE) during the maximum accumulation period. 
 
